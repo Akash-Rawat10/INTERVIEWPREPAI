@@ -7,7 +7,7 @@ import LandingPage from './pages/LandingPage';
 import Dashboard from './pages/Home/Dashboard';
 
 import UserProvider from './context/UserContext';
-import InterviewPrep from './pages/InterviewPrep/InterviewPrep';
+import InterviewPrep from './pages/Interviewprep/InterviewPrep';
 
 const App = () => {
   return (
