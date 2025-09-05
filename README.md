@@ -133,4 +133,4 @@ npm run dev
 
 ---
 ## Project Maintainer
-**Github:** [Akash Rawat](https://github.com/SwedeshnaMishra)
+**Github:** [Akash Rawat](https://github.com/Akash-Rawat10)
